@@ -1,0 +1,438 @@
+2024-10-06 17:52:46,011 [INFO] 任务调度已启动
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 1 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 2 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 3 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 4 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 5 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 6 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 7 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 8 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,011 [ERROR] 任务 9 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,012 [ERROR] 任务 10 失败: 'coroutine' object is not callable
+2024-10-06 17:52:46,012 [INFO] 完成一批任务，共 10 个任务
+2024-10-06 17:52:51,014 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,014 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,015 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,015 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,015 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,015 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,015 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 任务 1 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 任务 2 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 任务 3 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,016 [ERROR] 任务 4 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [ERROR] 任务 5 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [ERROR] 任务 6 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [ERROR] 任务 7 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [ERROR] 任务 8 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [ERROR] 任务 9 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [ERROR] 任务 10 失败: 'coroutine' object is not callable
+2024-10-06 17:52:51,017 [INFO] 完成一批任务，共 10 个任务
+2024-10-06 17:55:51,978 [INFO] 任务调度已启动
+2024-10-06 17:55:51,978 [ERROR] 任务 1 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 2 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 3 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 4 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 5 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 6 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 7 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 8 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 9 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [ERROR] 任务 10 失败: name 'proxy_pool' is not defined
+2024-10-06 17:55:51,978 [INFO] 完成一批任务，共 10 个任务
+2024-10-06 17:56:12,949 [INFO] 任务调度已启动
+2024-10-06 17:56:12,949 [ERROR] 任务 1 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 2 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 3 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 4 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 5 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 6 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 7 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 8 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 9 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [ERROR] 任务 10 失败: name 'proxy_pool' is not defined
+2024-10-06 17:56:12,949 [INFO] 完成一批任务，共 10 个任务
+2024-10-06 17:56:38,384 [INFO] 任务调度已启动
+2024-10-06 17:57:04,524 [INFO] 任务调度已启动
+2024-10-06 17:57:04,524 [ERROR] 任务 1 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 2 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 3 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 4 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 5 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 6 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 7 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 8 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 9 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [ERROR] 任务 10 失败: name 'proxy_pool' is not defined
+2024-10-06 17:57:04,524 [INFO] 完成一批任务，共 10 个任务
+2024-10-06 17:58:31,626 [INFO] 任务调度已启动
+2024-10-06 17:58:31,626 [ERROR] 任务 1 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 2 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 3 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 4 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 5 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 6 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 7 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 8 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 9 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [ERROR] 任务 10 失败: name 'proxy_pool' is not defined
+2024-10-06 17:58:31,626 [INFO] 完成一批任务，共 10 个任务
+2024-10-06 17:58:52,379 [INFO] 任务调度已启动
+2024-10-06 17:58:52,379 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@123.180.209.204:31775
+2024-10-06 17:58:52,446 [ERROR] 获取_m_h5_tk失败: HTTPSConnectionPool(host='h5api.m.taobao.com', port=443): Max retries exceeded with url: /h5/mtop.tmall.kangaroo.core.service.route.aldlampservicefixedresv2/1.0/?jsv=2.7.2&appKey=12574478&t=1727771714071&sign=6af747d682e724ade16df4a6fbfd2087&api=mtop.tmall.kangaroo.core.service.route.AldLampServiceFixedResV2&v=1.0&timeout=3000&dataType=jsonp&valueType=original&jsonpIncPrefix=tbpc&ttid=1@tbwang_mac_1.0.0 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+2024-10-06 17:58:52,446 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@171.40.167.236:48508
+2024-10-06 17:59:35,695 [INFO] 任务调度已启动
+2024-10-06 17:59:35,695 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:35,964 [INFO] 发送请求未使用代理
+2024-10-06 17:59:36,265 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:36,466 [INFO] 发送请求未使用代理
+2024-10-06 17:59:36,767 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:36,978 [INFO] 发送请求未使用代理
+2024-10-06 17:59:37,286 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:37,471 [INFO] 发送请求未使用代理
+2024-10-06 17:59:37,760 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:37,954 [INFO] 发送请求未使用代理
+2024-10-06 17:59:38,283 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:38,474 [INFO] 发送请求未使用代理
+2024-10-06 17:59:38,745 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:38,941 [INFO] 发送请求未使用代理
+2024-10-06 17:59:39,223 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:39,445 [INFO] 发送请求未使用代理
+2024-10-06 17:59:39,732 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:39,946 [INFO] 发送请求未使用代理
+2024-10-06 17:59:47,469 [INFO] 任务调度已启动
+2024-10-06 17:59:47,469 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:47,736 [INFO] 发送请求未使用代理
+2024-10-06 17:59:48,019 [ERROR] 任务 1 失败: 'str' object has no attribute 'get'
+2024-10-06 17:59:48,019 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 17:59:53,021 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 17:59:53,271 [INFO] 发送请求未使用代理
+2024-10-06 17:59:53,577 [ERROR] 任务 1 失败: 'str' object has no attribute 'get'
+2024-10-06 17:59:53,577 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:00:59,769 [INFO] 任务调度已启动
+2024-10-06 18:02:08,269 [INFO] 任务调度已启动
+2024-10-06 18:02:08,270 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 18:02:08,270 [ERROR] 任务 1 失败: 'coroutine' object is not callable
+2024-10-06 18:02:08,270 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:02:13,271 [ERROR] 并发任务执行失败: 'coroutine' object is not callable
+2024-10-06 18:02:13,272 [ERROR] 任务 1 失败: 'coroutine' object is not callable
+2024-10-06 18:02:13,272 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:01,493 [INFO] 任务调度已启动
+2024-10-06 18:03:01,493 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:01,792 [INFO] 发送请求未使用代理
+2024-10-06 18:03:02,065 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:02,066 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:02,066 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:07,068 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:07,275 [INFO] 发送请求未使用代理
+2024-10-06 18:03:07,595 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:07,596 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:07,596 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:12,598 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:12,845 [INFO] 发送请求未使用代理
+2024-10-06 18:03:13,146 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:13,147 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:13,147 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:18,149 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:18,371 [INFO] 发送请求未使用代理
+2024-10-06 18:03:18,663 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:18,663 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:18,663 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:23,665 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:23,878 [INFO] 发送请求未使用代理
+2024-10-06 18:03:24,183 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:24,184 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:24,184 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:29,186 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:29,391 [INFO] 发送请求未使用代理
+2024-10-06 18:03:29,693 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:29,694 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:29,694 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:34,696 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:34,917 [INFO] 发送请求未使用代理
+2024-10-06 18:03:35,212 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:35,212 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:35,212 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:40,214 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:40,433 [INFO] 发送请求未使用代理
+2024-10-06 18:03:40,708 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:40,709 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:40,709 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:45,711 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:45,917 [INFO] 发送请求未使用代理
+2024-10-06 18:03:46,234 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:46,235 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:46,235 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:51,237 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:51,461 [INFO] 发送请求未使用代理
+2024-10-06 18:03:51,748 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:51,749 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:51,749 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:03:56,751 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:03:56,959 [INFO] 发送请求未使用代理
+2024-10-06 18:03:57,244 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:03:57,244 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:03:57,245 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:02,246 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:02,454 [INFO] 发送请求未使用代理
+2024-10-06 18:04:02,748 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:02,748 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:02,748 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:07,751 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:07,947 [INFO] 发送请求未使用代理
+2024-10-06 18:04:08,249 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:08,249 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:08,250 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:13,252 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:13,496 [INFO] 发送请求未使用代理
+2024-10-06 18:04:13,791 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:13,791 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:13,792 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:18,794 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:19,026 [INFO] 发送请求未使用代理
+2024-10-06 18:04:19,330 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:19,331 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:19,331 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:24,333 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:24,562 [INFO] 发送请求未使用代理
+2024-10-06 18:04:25,232 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:25,233 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:25,233 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:30,239 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:30,461 [INFO] 发送请求未使用代理
+2024-10-06 18:04:30,745 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:30,746 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:30,746 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:35,747 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:35,938 [INFO] 发送请求未使用代理
+2024-10-06 18:04:36,219 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:36,219 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:36,220 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:41,221 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:41,432 [INFO] 发送请求未使用代理
+2024-10-06 18:04:41,764 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:41,765 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:41,765 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:46,770 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:46,997 [INFO] 发送请求未使用代理
+2024-10-06 18:04:47,315 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:47,316 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:47,316 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:52,318 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:52,892 [INFO] 发送请求未使用代理
+2024-10-06 18:04:53,183 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:53,184 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:53,184 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:04:58,186 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:04:58,385 [INFO] 发送请求未使用代理
+2024-10-06 18:04:58,692 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:04:58,693 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:04:58,693 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:05:03,694 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:05:03,899 [INFO] 发送请求未使用代理
+2024-10-06 18:05:04,176 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:05:04,176 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:05:04,177 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:05:09,182 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:05:09,384 [INFO] 发送请求未使用代理
+2024-10-06 18:05:09,670 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:05:09,673 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:05:09,673 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:05:11,269 [INFO] 任务调度已启动
+2024-10-06 18:05:11,270 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:05:11,510 [INFO] 发送请求未使用代理
+2024-10-06 18:05:11,771 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:05:11,772 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:05:11,772 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:05:16,774 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:05:16,990 [INFO] 发送请求未使用代理
+2024-10-06 18:05:17,274 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:05:17,275 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:05:17,275 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:05:22,277 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:05:22,492 [INFO] 发送请求未使用代理
+2024-10-06 18:05:22,792 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:05:22,792 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:05:22,793 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:05:58,690 [INFO] 任务调度已启动
+2024-10-06 18:05:58,690 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:05:58,904 [INFO] 发送请求未使用代理
+2024-10-06 18:05:59,155 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:05:59,155 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:05:59,155 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:04,157 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:04,381 [INFO] 发送请求未使用代理
+2024-10-06 18:06:04,622 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:04,622 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:04,622 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:09,624 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:09,856 [INFO] 发送请求未使用代理
+2024-10-06 18:06:10,104 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:10,105 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:10,105 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:15,107 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:15,317 [INFO] 发送请求未使用代理
+2024-10-06 18:06:15,574 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:15,574 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:15,574 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:20,577 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:20,811 [INFO] 发送请求未使用代理
+2024-10-06 18:06:21,072 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:21,073 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:21,073 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:26,075 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:26,297 [INFO] 发送请求未使用代理
+2024-10-06 18:06:26,545 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:26,546 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:26,546 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:31,548 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:31,766 [INFO] 发送请求未使用代理
+2024-10-06 18:06:32,014 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:32,014 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:32,014 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:37,016 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:37,216 [INFO] 发送请求未使用代理
+2024-10-06 18:06:37,476 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:37,477 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:37,477 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:42,479 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:42,688 [INFO] 发送请求未使用代理
+2024-10-06 18:06:42,929 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:42,929 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:42,929 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:47,934 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:48,147 [INFO] 发送请求未使用代理
+2024-10-06 18:06:48,393 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:48,394 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:48,394 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:53,399 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:53,617 [INFO] 发送请求未使用代理
+2024-10-06 18:06:53,859 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:06:53,860 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:06:53,860 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:06:58,862 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:06:59,077 [INFO] 发送请求未使用代理
+2024-10-06 18:06:59,307 [WARNING] 请求可能失败: mtop.taobao.powermsg.h5.msg.subscribe, 结果: {"api": "mtop.taobao.powermsg.h5.msg.subscribe", "data": {"configversion": "0", "latestSequenceNr": "0", "period": "10", "reportConfig": {"enabled": "true", "intervalInSeconds": "3", "namespace": "1", "reportBroadcastMsgAckRecord": "true", "reportUnicastMsgAckRecord": "true", "sample": "100", "sampleAppVersions": {}, "sampleDenominator": "10000", "sampleMode": "2"}, "role": "3", "syncCheckIntervalInSeconds": "0", "syncIntervalInMillis": "1000", "syncSequencedMessageEnabled": "false"}, "ret": ["robot::not a normal request"], "traceId": "213e394017282092195255069ea3ab", "v": "1.0"}
+2024-10-06 18:06:59,308 [WARNING] 任务 1 可能失败: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['robot::not a normal request']
+2024-10-06 18:06:59,308 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:04,310 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:04,541 [INFO] 发送请求未使用代理
+2024-10-06 18:07:04,801 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:04,802 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:04,802 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:09,803 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:10,020 [INFO] 发送请求未使用代理
+2024-10-06 18:07:10,293 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:10,294 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:10,294 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:15,296 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:15,513 [INFO] 发送请求未使用代理
+2024-10-06 18:07:15,758 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:15,759 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:15,759 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:20,760 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:20,970 [INFO] 发送请求未使用代理
+2024-10-06 18:07:21,217 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:21,218 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:21,218 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:26,221 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:26,429 [INFO] 发送请求未使用代理
+2024-10-06 18:07:26,670 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:26,670 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:26,670 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:31,672 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:31,890 [INFO] 发送请求未使用代理
+2024-10-06 18:07:32,123 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:32,124 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:32,124 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:37,126 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:37,360 [INFO] 发送请求未使用代理
+2024-10-06 18:07:37,620 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:37,621 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:37,621 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:42,623 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:42,836 [INFO] 发送请求未使用代理
+2024-10-06 18:07:43,080 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:07:43,081 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:07:43,081 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:48,083 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:48,304 [INFO] 发送请求未使用代理
+2024-10-06 18:07:48,534 [WARNING] 请求可能失败: mtop.taobao.powermsg.h5.msg.subscribe, 结果: {"api": "mtop.taobao.powermsg.h5.msg.subscribe", "data": {"configversion": "0", "latestSequenceNr": "0", "period": "10", "reportConfig": {"enabled": "true", "intervalInSeconds": "3", "namespace": "1", "reportBroadcastMsgAckRecord": "true", "reportUnicastMsgAckRecord": "true", "sample": "100", "sampleAppVersions": {}, "sampleDenominator": "10000", "sampleMode": "2"}, "role": "3", "syncCheckIntervalInSeconds": "0", "syncIntervalInMillis": "1000", "syncSequencedMessageEnabled": "false"}, "ret": ["robot::not a normal request"], "traceId": "213e38c717282092687421740e3478", "v": "1.0"}
+2024-10-06 18:07:48,535 [WARNING] 任务 1 可能失败: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['robot::not a normal request']
+2024-10-06 18:07:48,535 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:53,537 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:53,767 [INFO] 发送请求未使用代理
+2024-10-06 18:07:54,016 [WARNING] 请求可能失败: mtop.taobao.powermsg.h5.msg.subscribe, 结果: {"api": "mtop.taobao.powermsg.h5.msg.subscribe", "data": {"configversion": "0", "latestSequenceNr": "0", "period": "10", "reportConfig": {"enabled": "true", "intervalInSeconds": "3", "namespace": "1", "reportBroadcastMsgAckRecord": "true", "reportUnicastMsgAckRecord": "true", "sample": "100", "sampleAppVersions": {}, "sampleDenominator": "10000", "sampleMode": "2"}, "role": "3", "syncCheckIntervalInSeconds": "0", "syncIntervalInMillis": "1000", "syncSequencedMessageEnabled": "false"}, "ret": ["robot::not a normal request"], "traceId": "213e394317282092742256952edf80", "v": "1.0"}
+2024-10-06 18:07:54,016 [WARNING] 任务 1 可能失败: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['robot::not a normal request']
+2024-10-06 18:07:54,016 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:07:59,021 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:07:59,234 [INFO] 发送请求未使用代理
+2024-10-06 18:07:59,470 [WARNING] 请求可能失败: mtop.taobao.powermsg.h5.msg.subscribe, 结果: {"api": "mtop.taobao.powermsg.h5.msg.subscribe", "data": {"configversion": "0", "latestSequenceNr": "0", "period": "10", "reportConfig": {"enabled": "true", "intervalInSeconds": "3", "namespace": "1", "reportBroadcastMsgAckRecord": "true", "reportUnicastMsgAckRecord": "true", "sample": "100", "sampleAppVersions": {}, "sampleDenominator": "10000", "sampleMode": "2"}, "role": "3", "syncCheckIntervalInSeconds": "0", "syncIntervalInMillis": "1000", "syncSequencedMessageEnabled": "false"}, "ret": ["robot::not a normal request"], "traceId": "213e37fa17282092796823613e9f07", "v": "1.0"}
+2024-10-06 18:07:59,471 [WARNING] 任务 1 可能失败: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['robot::not a normal request']
+2024-10-06 18:07:59,471 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:08:04,473 [INFO] 获取 m_h5_tk 未使用代理
+2024-10-06 18:08:04,689 [INFO] 发送请求未使用代理
+2024-10-06 18:08:04,919 [WARNING] 请求可能失败: mtop.taobao.powermsg.h5.msg.subscribe, 结果: {"api": "mtop.taobao.powermsg.h5.msg.subscribe", "data": {"configversion": "0", "latestSequenceNr": "0", "period": "10", "reportConfig": {"enabled": "true", "intervalInSeconds": "3", "namespace": "1", "reportBroadcastMsgAckRecord": "true", "reportUnicastMsgAckRecord": "true", "sample": "100", "sampleAppVersions": {}, "sampleDenominator": "10000", "sampleMode": "2"}, "role": "3", "syncCheckIntervalInSeconds": "0", "syncIntervalInMillis": "1000", "syncSequencedMessageEnabled": "false"}, "ret": ["robot::not a normal request"], "traceId": "213e384817282092851268405e74b5", "v": "1.0"}
+2024-10-06 18:08:04,919 [WARNING] 任务 1 可能失败: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['robot::not a normal request']
+2024-10-06 18:08:04,919 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:14:24,526 [INFO] 任务调度已启动
+2024-10-06 18:14:24,526 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@120.40.212.119:44630
+2024-10-06 18:14:25,091 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@120.40.212.119:44630
+2024-10-06 18:14:25,670 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:14:25,671 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:14:25,671 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:14:30,673 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@120.40.212.119:44630
+2024-10-06 18:14:31,231 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@120.40.212.119:44630
+2024-10-06 18:14:31,819 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:14:31,819 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:14:31,819 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:14:36,821 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:14:37,267 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:14:37,690 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:14:37,691 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:14:37,691 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:14:42,693 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:14:43,134 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:14:43,575 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:14:43,576 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:14:43,576 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:14:48,579 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:14:49,032 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:14:49,592 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:14:49,593 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:14:49,593 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:14:54,595 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@125.78.218.72:40639
+2024-10-06 18:14:55,785 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@125.78.218.72:40639
+2024-10-06 18:14:56,934 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:14:56,935 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:14:56,935 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:15:01,937 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:15:02,395 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@123.180.209.1:44471
+2024-10-06 18:15:02,905 [INFO] 请求成功: mtop.taobao.powermsg.h5.msg.subscribe
+2024-10-06 18:15:02,906 [INFO] 任务 1 成功: API=mtop.taobao.powermsg.h5.msg.subscribe, ret=['SUCCESS::调用成功']
+2024-10-06 18:15:02,906 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:15:07,907 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@49.70.89.113:31713
+2024-10-06 18:15:17,912 [ERROR] 获取_m_h5_tk失败: HTTPSConnectionPool(host='h5api.m.taobao.com', port=443): Max retries exceeded with url: /h5/mtop.tmall.kangaroo.core.service.route.aldlampservicefixedresv2/1.0/?jsv=2.7.2&appKey=12574478&t=1727771714071&sign=6af747d682e724ade16df4a6fbfd2087&api=mtop.tmall.kangaroo.core.service.route.AldLampServiceFixedResV2&v=1.0&timeout=3000&dataType=jsonp&valueType=original&jsonpIncPrefix=tbpc&ttid=1@tbwang_mac_1.0.0 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+2024-10-06 18:15:17,913 [ERROR] 并发任务执行失败: 获取_m_h5_tk失败
+2024-10-06 18:15:17,913 [ERROR] 任务 1 失败: 获取_m_h5_tk失败
+2024-10-06 18:15:17,913 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:15:22,916 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@49.70.89.113:31713
+2024-10-06 18:15:32,925 [ERROR] 获取_m_h5_tk失败: HTTPSConnectionPool(host='h5api.m.taobao.com', port=443): Max retries exceeded with url: /h5/mtop.tmall.kangaroo.core.service.route.aldlampservicefixedresv2/1.0/?jsv=2.7.2&appKey=12574478&t=1727771714071&sign=6af747d682e724ade16df4a6fbfd2087&api=mtop.tmall.kangaroo.core.service.route.AldLampServiceFixedResV2&v=1.0&timeout=3000&dataType=jsonp&valueType=original&jsonpIncPrefix=tbpc&ttid=1@tbwang_mac_1.0.0 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+2024-10-06 18:15:32,926 [ERROR] 并发任务执行失败: 获取_m_h5_tk失败
+2024-10-06 18:15:32,927 [ERROR] 任务 1 失败: 获取_m_h5_tk失败
+2024-10-06 18:15:32,927 [INFO] 完成一批任务，共 1 个任务
+2024-10-06 18:15:37,931 [INFO] 获取 m_h5_tk 使用代理: http://17688881907:UdWthoSQ@49.70.89.113:31713
+2024-10-06 18:15:55,003 [INFO] 发送请求mtop.taobao.powermsg.h5.msg.subscribe使用代理: http://17688881907:UdWthoSQ@49.70.89.113:31713
