@@ -1,83 +1,79 @@
 import asyncio
 from mtop_service import MtopService
+import time
 from logger import logger
-from concurrency_queue import add_to_queue
-import random
 from cookies import cookies
 from proxyPools import proxyPool
-from utils import random_string
-import json
+import random
 
-MAX_CONCURRENT_TASKS = 15
+MAX_CONCURRENT_TASKS = 5
 current_cookie_index = 0
 
+sem = asyncio.Semaphore(MAX_CONCURRENT_TASKS)
 
 async def create_task():
     global current_cookie_index
-    time = int(asyncio.get_event_loop().time() * 1000)
+    if not proxyPool:
+        return {"error": "没有可用的代理"}
+    proxy_str = random.choice(proxyPool)
     options = {
-        'proxy_str': random.choice(proxyPool),
-        'cookie': cookies[current_cookie_index % len(cookies)]
-        # 'proxy_str': '',
-        # 'cookie': ''
+        'proxy_str': proxy_str,
+        'cookie': cookies[current_cookie_index % len(cookies)],
     }
-    current_cookie_index += 1
-
+    current_cookie_index = (current_cookie_index + 1) % len(cookies)
     mtop_service = MtopService(options)
 
-    request_options = {
-        'time': time,
-        'api': 'mtop.taobao.powermsg.h5.msg.subscribe',
-        'data': {
-            'namespace': 1,
-            'topic': 'c756559a-d487-43fb-b3bf-4335dc8c0bca',
-            'role': 3,
-            'sdkVersion': "h5_3.4.2",
-            'tag': "tb",
-            'appKey': "H5_25278248",
-            'utdId': "9450066120_450",
-            'isSec': 0,
-            'token': random_string(90),
-            'timestamp': time,
-            'ext': time
-        },
-        'api_version': '1.0',
-    }
+    logger.info(f"使用代理: {proxy_str}")
 
-    return await mtop_service.send_request(request_options)
-
+    async with sem:
+        try:
+            result = await mtop_service.execute_full_request()
+            return result
+        except Exception as e:
+            logger.error(f"任务失败，错误: {str(e)}")
+            return {"error": str(e)}
 
 async def execute_batch():
     tasks = [create_task() for _ in range(MAX_CONCURRENT_TASKS)]
-    results = await asyncio.gather(*[add_to_queue(task) for task in tasks], return_exceptions=True)
+    results = await asyncio.gather(*tasks, return_exceptions=True)
 
     successful_tasks = 0
     for index, result in enumerate(results):
-        if isinstance(result, Exception):
-            logger.error(f"任务 {index + 1} 失败: {str(result)}")
-            continue
-        try:
-            if isinstance(result, str):
-                result = json.loads(result)
-            
-            if isinstance(result, dict) and result.get('ret'):
-                if 'SUCCESS::' in result['ret'][0]:
-                    logger.info(f"任务 {index + 1} 成功: API={result.get('api', 'Unknown')}, ret={result['ret']}")
-                    successful_tasks += 1
-                else:
-                    logger.error(f"任务 {index + 1} 失败: API={result.get('api', 'Unknown')}, ret={result['ret']}")
-        except Exception as e:
-            logger.error(f"任务 {index + 1} 处理结果时发生错误: {str(e)}")
+        if isinstance(result, dict):
+            if "error" not in result:
+                successful_tasks += 1
+            else:
+                logger.error(f"任务 {index + 1} 失败: {result['error']}")
+        else:
+            logger.error(f"任务 {index + 1} 失败: 未知错误")
 
     logger.info(f"完成一批任务，成功 {successful_tasks} 个任务，共 {len(tasks)} 个任务")
 
+    # 保存当前 cookie 索引
+    with open('cookie_index.txt', 'w') as f:
+        f.write(str(current_cookie_index))
 
 async def main():
+    global current_cookie_index
+
+    # 读取上次保存的 cookie 索引
+    try:
+        with open('cookie_index.txt', 'r') as f:
+            content = f.read().strip()
+            current_cookie_index = int(content) if content else 0
+    except (FileNotFoundError, ValueError):
+        current_cookie_index = 0
+
+    # 确保 current_cookie_index 在有效范围内
+    current_cookie_index = current_cookie_index % len(cookies)
+
     logger.info('任务调度已启动')
     while True:
+        start_time = time.time()
         await execute_batch()
-        await asyncio.sleep(5)
-
+        elapsed_time = time.time() - start_time
+        if elapsed_time < 5:
+            await asyncio.sleep(5 - elapsed_time)
 
 if __name__ == '__main__':
     asyncio.run(main())
